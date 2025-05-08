@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
+  "version": "1.2",
   "download_url": "https://raw.githubusercontent.com/tamlatom/version-control/main/Proxy_Checker.zip",
   "notes": "Optimize threading"
 }
